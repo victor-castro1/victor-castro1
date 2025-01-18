@@ -1,27 +1,28 @@
-<h1 align="center">Hi there 👋, I'm Victor Hugo Soares Castro</h1>
-<h3 align="center">An IT developer from Brazil</h3>
+# ▶ Hi There  :
+< I'm have 18 years and live in Brazil > <br>< I'm working in Individuals Projects ><br><br><br> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorhugosoarescastro1&label=Profile%20views&color=0e75b6&style=flat" alt="victorhugosoarescastro1" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorcastro01) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorhugosoarescastro1" alt="victorhugosoarescastro1" /></a> </p>
+# 💻 Tecnology:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
-- 🔭 I’m currently working on **Individual Projects**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ortonikc&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=gruvbox_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ortonikc&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **JavaScript, HTML and CSS**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-- 👯 I’m looking to collaborate on **IT Company**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ortonikc&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
-- 🤝 I’m looking for help with **Dev Ops**
+---
+[![](https://visitcount.itsvg.in/api?id=ortonikc&icon=2&color=8)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [github.com/victorhugosoarescastro1](github.com/victorhugosoarescastro1)
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Victor Hugo Soares Castro) 
 
-- 📫 How to reach me **victorsoaresofficial@gmailcom**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorhugosoarescastro1&show_icons=true&locale=en" alt="victorhugosoarescastro1" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,31 +1,112 @@
-# ▶ Hi There  :
-< I'm have 18 years and live in Brazil > <br>
-< I'm working in Individuals Projects > <br>
-< I'm learning actually HTML, CSS and Docker <br>
-< For any questions, always learning > 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi,+Tudo+Certo?!+👋;Prazer+Victor+Hugo;Seja+Bem-Vindo+ao+Perfil!&center=true&size=30">
+  </a>
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorcastro01) 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/victorcastro01/" title="Perfil do Linkedin"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
-# 💻 Tecnology:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+</h5>
+<br>
+<p align="center">
+  Opa, me chamo Victor Hugo Soares Castro, sou Estudante de Engenharia de Software
+  <br>
+  | Futuro Desenvolvedor de Software e Full Stack |
+  <br>
+  Moro em Goiânia, Goiás, Brasil 🇧🇷
+  <br>
+  🔬 Atualmente estou estudando Engenharia de Software na Universidade UNIFAN - Centro Universitário Alfredo Nassser
+  <br>
+  🎓 Formado no Ensino Médio pelo Colégio CEPMG - Hugo de Carvalho Ramos  
+  <br>
+  📚 Estou atualmente aprendendo sobre Assembly(NASM), HTML, CSS e Python.
+  <br>
+  📫 Quaisquer Dúvidass, contate a seguir: <a href="email:victorsoaresofficial@gmail.com">victorsoaresofficial@gmail.com</a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=victorhugosoarescastro1&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victorhugosoarescastro1&theme=gruvbox_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugosoarescastro1&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=victotrhugosoarescastro1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=victorhugosoarescastro1&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=victorhugosoarescastro1&icon=2&color=8)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ Victor Hugo Soares Castro) 
-
+<hr>
+<h2 align="center"> Linguagens | Ferramentas | Habilidades </h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="C:\Users\Jales\images"></code>
+  <code>Anaconda</code>
+  <code>LaTeX</code>
+  <code>PowerShell</code>
+  <code>Assembly</code>
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+<hr>
+
+<h2 align="center">⚡ Status do GitHub ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=victorhugosoarescastro1&theme=react&border=61dafb&hide_border=true" alt="victorhugosoarescastro1" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=victorhugosoarescastro1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugosoarescastro1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorhugosoarescastro1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">Repositórios 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/victorhugosoarescastro1/QuizPerguntas" title="QuizPerguntas"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=QuizPerguntas&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/victorhugosoarescastro1/Supermercado-" title="Supermercado"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=Supermercado-&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/victorhugosoarescastro1/FlowGorithmProjects" title="FlowGorithm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=FlowGorithmProjects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/victorhugosoarescastro1/VisualgProjetos" title="VisualgProjetos"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=VisualgProjetos&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/victorhugosoarescastro1/Article.about.TinkerCad.Project" title="Artigo About TinkerCad"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=Article.about.TinkerCad.Project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/victorhugosoarescastro1/Projeto_Desenvolvimento_Software" title="PDS _ Projeto de Desenvolvimento de Software"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugosoarescastro1&repo=Projeto_Desenvolvimento_Software&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/victorhugosoarescastro1?tab=repositories" title="Mostrar Outros Repositórios">🔎 Mostrar Mais 🔍</a>
+</h4>
+
+
+<!--
+**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->

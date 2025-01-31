@@ -5,14 +5,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/victorcastro01/" title="Perfil do Linkedin"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/victorcastro01/" title="Perfil do Linkedin"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"> LinkedIn</a></code>
 
 </h5>
 <br>
 <p align="center">
   Opa, me chamo Victor Hugo Soares Castro, sou Estudante de Engenharia de Software
   <br>
-  | Futuro Desenvolvedor de Software e Full Stack |
+  | Estudante de Desenvolvimento de Software |
   <br>
   Moro em Goiânia, Goiás, Brasil 🇧🇷
   <br>
@@ -22,23 +22,22 @@
   <br>
   📚 Estou atualmente aprendendo sobre Assembly(NASM), HTML, CSS e Python.
   <br>
-  📫 Quaisquer Dúvidass, contate a seguir: <a href="email:victorsoaresofficial@gmail.com">victorsoaresofficial@gmail.com</a>
+  📫 Quaisquer Dúvidas, contate a seguir: <a href="email:victorsoaresofficial@gmail.com">victorsoaresofficial@gmail.com</a>
 </p>
 
 <hr>
 <h2 align="center"> Linguagens | Ferramentas | Habilidades </h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="C:\Users\Jales\images"></code>
-  <code>Anaconda</code>
-  <code>LaTeX</code>
-  <code>PowerShell</code>
-  <code>Assembly</code>
+<img align="center alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img align="center alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
+<img align="center alt="LaTeX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img align="center alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img align="center alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+<img align="center alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   
 </p>
 <hr>

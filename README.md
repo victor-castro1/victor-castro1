@@ -4,12 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  
-Student of Engineer Software.
-
-</p>
-
 <hr>
 <h2 align="center"> Linguagens | Ferramentas | Habilidades </h2>
 <br>

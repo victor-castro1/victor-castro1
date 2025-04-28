@@ -6,7 +6,7 @@
 
 <p align="center">
   
- Estudante de Desenvolvimento de Software. Sou de Goiânia ,Goiás ,Brasil.Atualmente estou estudando Engenharia de Software na Universidade UNIFAN - Centro Universitário Alfredo Nassser. Estou atualmente aprendendo sobre Assembly(NASM), HTML, CSS e Python.
+Student of Engineer Software.
 
 </p>
 

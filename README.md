@@ -6,9 +6,8 @@
 
 <p align="center">
   
-> Estudante de Desenvolvimento de Software. Sou de Goiânia ,Goiás ,Brasil.Atualmente estou estudando Engenharia de Software na Universidade UNIFAN - Centro Universitário Alfredo Nassser. Estou atualmente aprendendo sobre Assembly(NASM), HTML, CSS e Python.
+ Estudante de Desenvolvimento de Software. Sou de Goiânia ,Goiás ,Brasil.Atualmente estou estudando Engenharia de Software na Universidade UNIFAN - Centro Universitário Alfredo Nassser. Estou atualmente aprendendo sobre Assembly(NASM), HTML, CSS e Python.
 
-> Quaisquer Dúvidas, contate a seguir: <a href="email:victorsoaresofficial@gmail.com">victorsoaresofficial@gmail.com</a>
 </p>
 
 <hr>

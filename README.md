@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://go-skill-icons.vercel.app/">
-<img align="center" height="50" widht="50" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,java,spring,javascript,css,html&theme=light" />    
+<img align="center" height="50" widht="50" src="https://go-skill-icons.vercel.app/api/icons?i=git,github,java,postman,mongodb,spring,javascript,css,html&theme=light" />    
 </a>
 </p>
 <hr>

@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap" />
 </div>
 
 ---
